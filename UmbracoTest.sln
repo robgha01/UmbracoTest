@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoTest", "UmbracoTest.csproj", "{C9E7A92D-6778-4D35-88F7-5596794D5414}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoTest", "UmbracoTest\UmbracoTest.csproj", "{C9E7A92D-6778-4D35-88F7-5596794D5414}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoTest.Web", "..\UmbracoTest.Web\UmbracoTest.Web.csproj", "{6CDD9D02-4D63-4751-95C7-297951A8E87E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoTest.Web", "UmbracoTest.Web\UmbracoTest.Web.csproj", "{6CDD9D02-4D63-4751-95C7-297951A8E87E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
