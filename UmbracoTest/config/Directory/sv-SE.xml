@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key name="SomeDictionaryName">Något värde</key>
+  <key name="SomeDictionaryNameWithChild">
+    <value>Förälder</value>
+    <key name="SomeDictionaryNameWithParent">Något barn</key>
+  </key>
+</dictionary>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key name="SomeDictionaryName">Single value for key with no parent</key>
+  <key name="SomeDictionaryNameWithChild">
+    <value>Some value for english</value>
+    <key name="SomeDictionaryNameWithParent">
+      <value>some child of a parent</value>
+      <key name="Oboy">
+        <value>this shit works ?</value>
+        <key name="sss">dasdasdad</key>
+      </key>
+    </key>
+  </key>
+</dictionary>
